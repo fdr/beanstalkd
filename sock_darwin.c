@@ -5,7 +5,6 @@
 #include <sys/types.h>
 #include <sys/event.h>
 #include <sys/time.h>
-#include <event.h>
 #include "dat.h"
 
 static void handle(Socket *s, int events);
